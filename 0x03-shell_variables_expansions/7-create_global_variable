@@ -1,2 +1,2 @@
 #!/bin/bash
-function foo(){BEST=School}
+export BEST=school
